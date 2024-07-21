@@ -5,6 +5,8 @@
               cppLanguageStandard="20">
   <MAINGROUP id="MH6Lgp" name="Delay">
     <GROUP id="{4112E18F-5204-A128-C68C-ED336C7741D5}" name="Source">
+      <FILE id="Adogek" name="Parameters.cpp" compile="1" resource="0" file="Source/Parameters.cpp"/>
+      <FILE id="XdK94S" name="Parameters.h" compile="0" resource="0" file="Source/Parameters.h"/>
       <FILE id="uDxFk7" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
       <FILE id="oUUSPn" name="PluginProcessor.h" compile="0" resource="0"
